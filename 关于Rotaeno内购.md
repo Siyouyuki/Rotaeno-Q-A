@@ -20,7 +20,7 @@
 | :--------------: | :-----------------: |
 | 100 Stellar Gem  | 0.99 USD/Razer Coin |
 | 510 Stellar Gem  | 4.99 USD/Razer Coin |
-| 1020 Stellar Gem | 9.99 USD/Razer Coin |
+| 1030 Stellar Gem | 9.99 USD/Razer Coin |
 
 5.一个曲包有几首歌，要多少钱？
 
